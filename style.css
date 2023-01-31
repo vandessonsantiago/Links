@@ -26,6 +26,7 @@
 
 body {
   background: var(--bg-url) no-repeat top center/cover;
+  right: 100vh;
 }
 
 body * {
@@ -166,4 +167,18 @@ footer {
   padding: 24px 0;
   text-align: center;
   font-size: 14px;
+}
+
+/* midia queries */
+@media (min-width: 700px){
+  
+  :root {
+    --bg-url: url('/.assets/bg-desktop-dark.jpg');
+  }
+  
+  .light {
+    --bg-url: url('/.assets/bg-desktop-light.jpg');
+  }
+
+
 }
