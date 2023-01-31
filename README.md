@@ -1,7 +1,7 @@
 <h1 align="center"> Links </h1>
 
 <p align="center">
-Versão do programa promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Versão do programa DevLiks promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 </p>
 
 <p align="center">
