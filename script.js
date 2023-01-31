@@ -6,8 +6,6 @@ function toggleMode(){
   const img = document.querySelector("#profile img")
   const favicon = document.querySelector("#favicon")
 
-  console.log(favicon)
-
   // substituir a img
   // se tiver light mode, pegar a tag img light
   if (html.classList.contains("light")) {
